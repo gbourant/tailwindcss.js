@@ -1,0 +1,14 @@
+{
+  "name": "tailwind.js",
+  "version": "3.3.3",
+  "description": "tailwindcss cnd script as a npm dependency",
+  "main": "tailwindcss.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/gbourant/tailwindcss.js",
+  "repository": "github:gbourant/tailwindcss.js",
+  "keywords": ["tailwindcss","cdn"],
+  "author": "gbourant",
+  "license": "ISC"
+}
