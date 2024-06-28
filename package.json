@@ -1,7 +1,7 @@
 {
   "name": "@gbourant/tailwind.js",
-  "version": "3.4.3",
-  "description": "tailwindcss cnd script as a npm dependency",
+  "version": "3.4.4",
+  "description": "tailwindcss cnd script (https://cdn.tailwindcss.com/) as a npm dependency",
   "main": "tailwindcss.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
