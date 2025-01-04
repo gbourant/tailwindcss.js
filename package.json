@@ -1,6 +1,6 @@
 {
   "name": "@gbourant/tailwind.js",
-  "version": "3.4.4",
+  "version": "3.4.16",
   "description": "tailwindcss cnd script (https://cdn.tailwindcss.com/) as a npm dependency",
   "main": "tailwindcss.js",
   "scripts": {
